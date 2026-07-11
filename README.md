@@ -28,12 +28,5 @@ Me encanta programar y diseñar soluciones que optimicen tareas, simplifiquen la
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Cibersecurity-Analyst&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Cibersecurity-Analyst&layout=compact&theme=radical)
-
----
-
 
 ⚡ *Fun fact: Cuando no estoy analizando código o automatizando tareas, probablemente estoy practicando acordes en la guitarra o ideando mi próximo proyecto.*
